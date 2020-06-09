@@ -1,65 +1,38 @@
-# Build settings
-gems:
-  - jemoji
-  - jekyll-paginate
+title: "Blog Title"
+author: "Blog Author"
+description: "Made with <b style=\"color: #f45;\">&lt;3</b> by <b><a href=\"https://github.com/niklasbuschmann\">@niklasbuschmann</a></b>"
+permalink: /:title/
+lang: "en"
+excerpt_separator: "\n\n\n"
+date_format: "%B %d, %Y"
 
-# Site settings
-title: "Mediator"
-description: > # this means to ignore newlines until "email:"
-   A Jekyll theme - Medium inspired
+# Layout
 
-email: a-mail@mail.mail
-#blog logo
-logo: "/assets/images/df_logo.jpg"
-float_logo: true # true, false (default)
+sidebar: false               # show a sidebar instead of the usual header
+show_excerpts: false         # show article excerpts on the home page
+show_related: true           # show the previous and next links after every post
+show_description: true       # show the site description in the sidebar
+show_title: false            # always keep the site title visible
 
-# blog cover
-cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
+# Styling
 
-name: 'Dirk Fabisch'
-author: 'Dirk Fabisch'
-author_image: "/assets/images/author.jpg"
+dark_header: false           # always keep the header dark
+minimal: false               # use simpler style
 
-paginate:	5
+# Menu
 
-remote_theme : dirkfabisch/mediator
+navigation:
+  - {file: "index.html", icon: home}
+  - {file: "README.md", icon: address-card}
 
-url: "https://limkinam.github.io/" # the base hostname & protocol for your site
-baseurl: ""
-#used to display twitter cards
-twitter_handle: '@dirkfabisch'
+external:                    # see http://fontawesome.com/icons
+#  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
+#  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
+#  - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
-#fill in disqus shortname to use disqus
-#disqus: disqus-shortname
+comments:
+#  disqus_shortname: ""      # see https://disqus.com/
+#  isso_domain: ""           # see https://posativ.org/isso/
 
-#google_analytics: UA-XXXXX-X
-
-# social icons and sharing options
-social:
-  - icon:	twitter
-    url:	https://twitter.com/dirkfabisch
-    desc: Follow me on twitter
-    share_url: http://twitter.com/share
-    share_title: ?text=
-    share_link: "&amp;url="
-
-#  - icon:	facebook
-#    url:	https://facebook.com/???
-#    desc: Connect with me facebook
-#    share_url: https://www.facebook.com/sharer.php
-#    share_title: ?t=
-#    share_link: "&amp;u="
-
-  - icon:	github
-    url:	https://github.com/dirkfabisch
-    desc:	Fork me on github
-    share_url:
-    share_title:
-    share_link:
-
-#  - icon:	google-plus
-#    url:	https://google.com/???
-#    desc:	Add me on google+
-#    share_url:
-#    share_title:
-#    share_link:
+plugins:
+ - jekyll-feed
