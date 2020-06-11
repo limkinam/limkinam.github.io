@@ -9,6 +9,7 @@ comments: false
 <center><a href="https://limkinam.github.io/"><b>Develop2r</b></a> is a minimal, one column jekyll theme.</center>
 
 ## Features
+\\<!--
 * 경험기술서(1)
 1. 활동기관 : 교내 학술 동아리 
 2. 활동기간 : 2017.03 ~ 2017.06 
@@ -79,7 +80,7 @@ comments: false
 3) 데이터셋 분석 및 정제 
 4) Flask 프레임워크를 이용한 Rest API 개발 
 5) node.js/vue.js를 이용한 웹 서비스 인터페이스 개발 
-
+-->
 
 ## Preview
 
