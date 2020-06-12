@@ -6,7 +6,7 @@ date: 2016-03-21
 comments: false
 ---
     
-<center><a href="https://limkinam.github.io/"><b>Develop2r</b></a> is a minimal, one column jekyll theme.</center>
+<center><a href="https://limkinam.github.io/"><b>Develop2r</b></a> 구르는 돌에 이끼는 끼지 </center>
 
 ## PROJECT
 
