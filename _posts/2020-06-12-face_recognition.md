@@ -84,7 +84,7 @@ cv2.destroyWindow('snow')
 
 <img src="../assets/img/face_recognition/result.png">
 
-* <a href="https://github.com/limkinam/face_recognition > git hub  </a>
+* <a href="https://github.com/limkinam/face_recognition" > git hub  </a>
 
 
     
