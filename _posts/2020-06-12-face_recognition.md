@@ -22,14 +22,14 @@ comments: true
 
 영상에서 객체의 특징을 찾기위한 기법으로 아래 보이는 사각형으로 얼굴을 찾을 수 있다.
 
-<img src="../assets/img/kinam.jpg">
+<img src="../assets/img/face_recognition/data1.png">
 
 
 유사하르 특징은 사람의 얼굴에 특별한 패턴이 있다고 얼굴위에 흑백의 사각형을 겹쳐 밝은 영역에 속한 픽셀 값들의 평균에서 어두운 영역에 속한 픽셀값들의 평균차를 구한 후 그 차이가 일정값 이상으로 커지면 유사 하르 특징이 있다고 판단한다.
 
 ### Flow
 
-<img src="../assets/img/kinam.jpg">
+<img src="../assets/img/face_recognition/data2.png">
 
 ### Code
 
@@ -82,7 +82,7 @@ cv2.destroyWindow('snow')
 
 ### Result
 
-<img src="../assets/img/kinam.jpg">
+<img src="../assets/img/face_recognition/result.png">
 
 
 
