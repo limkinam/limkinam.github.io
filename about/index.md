@@ -6,7 +6,7 @@ date: 2016-03-21
 comments: false
 ---
     
-<center><a href="https://limkinam.github.io/"><b>Develop2r</b></a> 구르는 돌에 이끼는 끼지 </center>
+<center><a href="https://limkinam.github.io/"><b>Develop2r</b></a> 구르는 돌에 이끼는 끼지않는다 </center>
 
 ## PROJECT
 
