@@ -10,7 +10,7 @@ comments: false
 
 ## PROJECT
 
-* 얼굴 인식 시스템을 이용하여 이미지 가공 및 합성 
+* <a href="https://limkinam.github.io/face_recognition/">얼굴 인식 시스템을 이용하여 이미지 가공 및 합성 </a>
 
 
 
