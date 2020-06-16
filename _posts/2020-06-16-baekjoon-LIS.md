@@ -2,7 +2,7 @@
 layout: post
 title: "LIS 최장 증가 수열"
 date: 2020-06-16
-excerpt: "LIS 알고리즘 시간 복잡도: O(n^2) | 이분탐색 이용 O(log n)"
+excerpt: "LIS 알고리즘 시간 복잡도: O(n^2) | 이분탐색 이용 O(nlog n)"
 tag:
 - algorithm
 - lis
@@ -10,10 +10,10 @@ tag:
 comments: true
 ---
 
-## LIS 최장 증가 수열 알고리즘 
+## LIS 최장 증가 수열 알고리즘  
  - 동적 계획법 -  
 문제 : <a href="https://www.acmicpc.net/problem/11053"> 백준 11053 </a>
-시간 복잡도 : O(n^2) 
+시간 복잡도 : O(n^2)  
 ```java
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
@@ -107,7 +107,7 @@ private static int lowerBound(int[] dp, int idx, int i) {
 
 
 문제 : <a href="https://www.acmicpc.net/problem/12015"> 백준 12015 </a>
-시간 복잡도 : O(log n)
+시간 복잡도 : O(nlog n)
 ```java
 import java.io.BufferedReader;
 import java.io.IOException;
