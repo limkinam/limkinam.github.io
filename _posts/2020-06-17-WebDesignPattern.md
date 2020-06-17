@@ -29,9 +29,12 @@ comments: true
     4. View는 ViewModel과 Binding하여 사용자에게 보여준다.
  - 특징 : View 와 Model 사이의 의존성이 없어 각 부분을 모듈화하여 독립적으로 개발할 수 있다.
 
-* MVP패턴 
-  - Controller => Presenter(View와Model을 1:1로 연결해주는 역할을 한다)
-  - view 와 model의 직접적인 연결이 없지만 View 와 Presenter의 의존성이 높아져 MVC패턴과 같은 문제가 발생한다.
-  
+***
+
+> MVP패턴 
+>  - Controller => Presenter(View와Model을 1:1로 연결해주는 역할을 한다)
+>  - view 와 model의 직접적인 연결이 없지만 View 와 Presenter의 의존성이 높아져 MVC패턴과 같은 문제가        발생한다.
+
+***
  
  
