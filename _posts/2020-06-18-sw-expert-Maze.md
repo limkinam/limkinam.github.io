@@ -12,10 +12,12 @@ comments: true
 
 - BFS -
 문제 : [sw expert 1226](hhttps://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14vXUqAGMCFAYD)  
-시간 복잡도 : O(n^2)
+시간 복잡도 : O(n^2)  
+
 ## KeyPoint
  - Point Class 에 좌표를 저장하여 Queue의 Type Parameters 로 사용  
- - 자료 구조 Queue 이용 BFS 구현 
+ - 자료 구조 Queue 이용 BFS 구현  
+ 
 ## Code Snippets  
 
 ```java
