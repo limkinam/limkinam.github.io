@@ -16,7 +16,7 @@ comments: true
 ## KeyPoint
  - Point Class 에 좌표를 저장하여 Queue의 Type Parameters 로 사용  
  - 자료 구조 Queue 이용 BFS 구현 
-## Code Snippets
+## Code Snippets  
 ```java
 import java.io.BufferedReader;
 import java.io.IOException;
