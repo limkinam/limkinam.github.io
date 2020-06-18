@@ -12,7 +12,7 @@ comments: true
 ---
 
 - DFS -
-문제 : [sw expert 2806][https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV7GKs06AU0DFAXB]
+문제 : [sw expert 2806](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV7GKs06AU0DFAXB)  
 시간 복잡도 : O(n^2)
 ## 함수  
 
