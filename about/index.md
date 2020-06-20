@@ -18,40 +18,7 @@ comments: false
  - 2019.07 ~ 2020.06 삼성 청년 SW 아카데미 수료
  
 ## SKILL
-<center><b>Language</b></center>
-{% capture images %}  
-    ../assets/img/skill/java.png
-    ../assets/img/skill/python.png
-	../assets/img/skill/javascript2.png
-	../assets/img/skill/html2.png
-	../assets/img/skill/css.png  
-{% endcapture %}
-{% include gallery images=images caption="Test images" cols=3 %} 
 
-<center><b>Framework</b></center>
-{% capture images %}  
-    ../assets/img/skill/spring.png
-    ../assets/img/skill/flask.png
-	../assets/img/skill/Vue.png  
-{% endcapture %}
-{% include gallery images=images caption="Test images" cols=3 %} 
-
-<center><b>OS & Database</b></center>
-{% capture images %}  
-    ../assets/img/skill/window.png
-    ../assets/img/skill/linux2.png
-	../assets/img/skill/mysql.png
-{% endcapture %}  
-{% include gallery images=images caption="Test images" cols=3 %}
-
-<center><b>Analysis & Co-op</b></center>
-{% capture images %}  
-    ../assets/img/skill/scikit-learn.jpg
-    ../assets/img/skill/pandas.jpg
-	../assets/img/skill/github.png
-	../assets/img/skill/jira.png
-{% endcapture %}  
-{% include gallery images=images caption="Test images" cols=3 %}  
 
 ## Certificate
 - 정보처리기사
