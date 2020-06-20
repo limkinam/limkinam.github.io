@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 임기남
+title: 안녕하세요 :) IT 개발자 임기남입니다.
 tags: [about]
 date: 2020-06-10
 comments: false
@@ -19,13 +19,13 @@ comments: false
  
 ## SKILL
  <center><b>Language</b></center>
- <center>
+<center>
  <p float="left">
   <img src="../assets/img/skill/java.png" width="20" />
   <img src="../assets/img/skill/python.png" width="20" /> 
   <img src="../assets/img/skill/javascript2.png" width="20" />
 </p>
-<center>
+</center>
  <center><b>Framework</b></center>
  <center><b>OS & Database</b></center>
  <center><b>Analysis & Co-op</b></center>  
