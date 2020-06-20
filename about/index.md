@@ -14,11 +14,13 @@ comments: false
  
 ## SKILL
  <center><b>Language</b></center>
+ <center>
  <p float="left">
-  <img src="../assets/img/skill/java.png" width="100" />
-  <img src="../assets/img/skill/python.png" width="100" /> 
-  <img src="../assets/img/skill/javascript2.png" width="100" />
+  <img src="../assets/img/skill/java.png" width="20" />
+  <img src="../assets/img/skill/python.png" width="20" /> 
+  <img src="../assets/img/skill/javascript2.png" width="20" />
 </p>
+<center>
  <center><b>Framework</b></center>
  <center><b>OS & Database</b></center>
  <center><b>Analysis & Co-op</b></center>
