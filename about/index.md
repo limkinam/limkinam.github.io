@@ -31,16 +31,16 @@ comments: false
 <center><b>Analysis & Co-op</b></center>  
 
 {% capture images %}  
+    ../assets/img/skill/java.png
+    ../assets/img/skill/java.png
+	../assets/img/skill/java.png
 	../assets/img/skill/javascript2.png
-	../assets/img/skill/javascript2.png
-	../assets/img/skill/javascript2.png
-    ../assets/img/skill/javascript2.png
 {% endcapture %}  
-{% include gallery images=images caption="Test images" cols=4 %}  
+{% include gallery images=images caption="Test images" cols=3 %}  
 ## Certificate
- 정보처리기사
- OPIC : IL
- SW 역량테스트 : Level A
+- 정보처리기사
+- OPIC : IL
+- SW 역량테스트 : Level A
 ## PROJECT
 * 자기소개서 MBTI 분석 서비스  
 
