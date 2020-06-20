@@ -51,7 +51,8 @@ comments: false
 	../assets/img/skill/github.png
 	../assets/img/skill/jira.png
 {% endcapture %}  
-{% include gallery images=images caption="Test images" cols=3 %}
+{% include gallery images=images caption="Test images" cols=3 %}  
+
 ## Certificate
 - 정보처리기사
 - OPIC : IL
