@@ -28,6 +28,8 @@ comments: false
 - OPIC : IL
 - SW 역량테스트 : Level A
 ## PROJECT
+* 화상 면접 서비스 + AI 표정 분석 시각화
+
 * 자기소개서 MBTI 분석 서비스  
 
 * 청년 맞춤형 재태크 포털 웹 서비스 개발  
