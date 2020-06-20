@@ -5,8 +5,8 @@ tags: [about]
 date: 2020-06-10
 comments: false
 ---
-  
-<center><h1><b>Motto</h1></h3></center>  
+ 
+<center><h1><b>Motto</b></h1></center>  
 <center></a>세상에 필요한 사람이 되자</center>  
 <center>어려운건 있어도 안되는건 없다</center>  
 <center>점이 모아져서 선이되고 선이 모아져서 그림이 된다</center>  
