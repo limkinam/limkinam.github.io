@@ -5,6 +5,7 @@ tags: [about]
 date: 2020-06-10
 comments: false
 ---
+<p align="center"><img src="../assets/img/PHOTO.jpg"  width="80%" height="50%"></p>
 
  
 <center><h1><b>Motto</b></h1></center>  
