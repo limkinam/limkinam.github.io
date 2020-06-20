@@ -6,7 +6,7 @@ excerpt: "LIS 알고리즘 시간 복잡도: O(n^2) | 이분탐색 이용 O(nlog
 tag:
 - algorithm
 - lis
-- baakjoon
+- baekjoon
 comments: true
 ---
 
