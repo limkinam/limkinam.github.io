@@ -5,21 +5,23 @@ tags: [about]
 date: 2020-06-10
 comments: false
 ---
+
  
 <center><h1><b>Motto</b></h1></center>  
-<center>세상에 필요한 사람이 되자</center>  
-<center>어려운건 있어도 안되는건 없다</center>  
-<center>점이 모아져서 선이되고 선이 모아져서 그림이 된다</center>  
-<center>사과를 사서 먹는 사람보다 키워 먹는 사람이 깊이가 있다</center>  
-<center>죽은 물고기만 물살에 몸을 맡긴다</center>  
+<center>"세상에 필요한 사람이 되자"</center>  
+<center>"어려운건 있어도 안되는건 없다"</center>  
+<center>"점이 모아져서 선이되고 선이 모아져서 그림이 된다"</center>  
+<center>"사과를 사서 먹는 사람보다 키워 먹는 사람이 깊이가 있다"</center>  
+<center>"죽은 물고기만 물살에 몸을 맡긴다"</center>  
 
 ## Education
  - 2013.03 ~ 2019.08 전남대학교 컴퓨터정보통신공학과 학사졸업
  - 2019.07 ~ 2020.06 삼성 청년 SW 아카데미 수료
- 
 ## SKILL
-
-
+ - language : Java, Python, HTML, CSS, JavaScript
+ - Framework : Spring, Flask, Vue.js
+ - os & Database : Window, Linux, Mysql
+ - etc : scikit, Pandas, Github, Jira
 ## Certificate
 - 정보처리기사
 - OPIC : IL
