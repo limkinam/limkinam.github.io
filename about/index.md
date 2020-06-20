@@ -36,9 +36,9 @@ comments: false
 	../assets/img/skill/java.png
 	../assets/img/skill/javascript2.png
 {% endcapture %}  
-{% include gallery images=images caption="Test images" cols=3 %}  
+{% include gallery images=images caption="Test images" cols=4 %}  
 ## Certificate
-- 정보처리기사
+- 정보처리기사1
 - OPIC : IL
 - SW 역량테스트 : Level A
 ## PROJECT
