@@ -38,8 +38,9 @@ comments: false
 {% endcapture %}  
 {% include gallery images=images caption="Test images" cols=4 %}  
 ## Certificate
-
-
+ 정보처리기사
+ OPIC : IL
+ SW 역량테스트 : Level A
 ## PROJECT
 * 자기소개서 MBTI 분석 서비스  
 
