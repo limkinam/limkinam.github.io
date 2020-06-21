@@ -17,16 +17,19 @@ comments: false
 
 ## Education
  - 2013.03 ~ 2019.08 전남대학교 컴퓨터정보통신공학과 학사졸업
- - 2019.07 ~ 2020.06 삼성 청년 SW 아카데미 수료
+ - 2019.07 ~ 2020.06 삼성 청년 SW 아카데미 수료  
+ 
 ## SKILL
  - language : Java, Python, HTML, CSS, JavaScript
  - Framework : Spring, Flask, Vue.js
  - os & Database : Window, Linux, Mysql
- - etc : scikit, Pandas, Github, Jira
+ - etc : scikit, Pandas, Github, Jira  
+ 
 ## Certificate
 - 정보처리기사
 - OPIC : IL
-- SW 역량테스트 : Level A
+- SW 역량테스트 : Level A  
+
 ## PROJECT
 * 화상 면접 서비스 + AI 표정 분석 시각화
 
