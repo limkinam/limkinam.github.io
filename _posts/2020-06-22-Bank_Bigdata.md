@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Back BigData"
+title:  "Bank BigData"
 date:   2020-06-22
 excerpt: "대출 완납 예측 서비스"
 project: true
