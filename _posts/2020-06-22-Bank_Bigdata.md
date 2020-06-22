@@ -45,6 +45,6 @@ Source Code :  <a href="https://github.com/limkinam/Bank_Bigdata" > git hub  </a
 <figure class="half">
     <img src="../assets/img/Bank/data_modeling1.JPG"></a>
     <img src="../assets/img/Bank/data_modeling1.JPG"></a>
-</figure>
+</figure>  
 ## WEB SERVICE
 <p align="center"><img src="../assets/img/Bank/webservice.JPG"></p>  
