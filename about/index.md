@@ -20,9 +20,9 @@ comments: false
  - 2019.07 ~ 2020.06 삼성 청년 SW 아카데미 수료  
  
 ## SKILL
- - language : Java, Python, HTML, CSS, JavaScript
+ - language : Java, Python, JavaScript
  - Framework : Spring, Flask, Vue.js
- - os & Database : Window, Linux, Mysql
+ - Database : Mysql
  - etc : scikit, Pandas, Github, Jira  
  
 ## Certificate
