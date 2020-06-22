@@ -35,7 +35,7 @@ comments: false
 
 * 자기소개서 MBTI 분석 서비스  
 
-* 청년 맞춤형 재태크 포털 웹 서비스 개발  
+* <a href="https://limkinam.github.io//Javer/">청년 맞춤형 재태크 포털 웹 서비스 개발 </a>
 
 * Kaggle 금융관련 데이터셋 분석 및 정제를 통해 예측 모델 추출/ 사용자의 웹 서비스 제공  
 
