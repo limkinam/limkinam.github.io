@@ -31,13 +31,13 @@ comments: false
 - SW 역량테스트 : Level A  
 
 ## PROJECT
-* 화상 면접 서비스 + AI 표정 분석 시각화
+* <a href="https://limkinam.github.io/Bridge/">화상 면접 서비스 + AI 표정 분석 시각화
 
-* 자기소개서 MBTI 분석 서비스  
+* <a href="https://limkinam.github.io/MBTI/">자기소개서 MBTI 분석 서비스  
 
-* <a href="https://limkinam.github.io//Javer/">청년 맞춤형 재태크 포털 웹 서비스 개발 </a>
+* <a href="https://limkinam.github.io/Javer/">청년 맞춤형 재태크 포털 웹 서비스 개발 </a>
 
-* Kaggle 금융관련 데이터셋 분석 및 정제를 통해 예측 모델 추출/ 사용자의 웹 서비스 제공  
+* <a href="https://limkinam.github.io/SafeFood/">Kaggle 금융관련 데이터셋 분석 및 정제를 통해 예측 모델 추출/ 사용자의 웹 서비스 제공  
 
 * <a href="https://limkinam.github.io/SafeFood/">안전먹거리를 주제로 회원들의 BMI, 알레르기, 일일 권장 섭취량 등을 관리 해주는 Web 서비스 개발  
     
