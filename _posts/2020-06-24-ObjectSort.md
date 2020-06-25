@@ -97,4 +97,4 @@ comparator 이용 내림차순 정렬후 : [Person [name=현다이, power=3000],
 
 ```
 ## Reference
- - https://gmlwjd9405.github.io/2018/09/06/java-comparable-and-comparator.html
+ - <a href="https://gmlwjd9405.github.io/2018/09/06/java-comparable-and-comparator.html">https://gmlwjd9405.github.io/2018/09/06/java-comparable-and-comparator.html</a>
