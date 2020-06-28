@@ -1,4 +1,7 @@
 # Site navigation links
 
 - title: Projects
-  url:[/projects/,/algorithms/]
+  url: /projects/
+  
+- title: Algorithm
+  url: /algorithms/
