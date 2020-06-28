@@ -3,6 +3,7 @@ layout: post
 title:  "2020_상반기_넷마블_3번"
 date:   2020-06-27
 excerpt: "문제 풀이 (문제 공유 불가...)"
+algorithm: true
 tag:
 - algorithm
 - netmable
