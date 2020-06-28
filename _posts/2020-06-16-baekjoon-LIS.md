@@ -3,6 +3,7 @@ layout: post
 title: "LIS 최장 증가 수열"
 date: 2020-06-16
 excerpt: "LIS 알고리즘 시간 복잡도: O(n^2) | 이분탐색 이용 O(nlog n)"
+algorithm: true
 tag:
 - algorithm
 - lis
