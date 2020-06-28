@@ -12,6 +12,7 @@ comments: true
  - 인터페이스 : java.sql 패키지
  - 드라이버 : java.sql 패키지를 상속하여 메소드의 몸체를 구현한 클래스 파일
  - Persistence Framework는 내부적으로 JDBC API를 사용  
+
 ## Persitence Framework
  - 데이터의 처리를 다루는 클래스 및 설정 파일의 집합
  - JDBC프로그래밍의 복잡함이나 번거로움 없이 간단한 작업만으로 DB연동 가능
