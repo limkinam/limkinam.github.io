@@ -3,6 +3,7 @@ layout: post
 title: "Comparable 와 Comparator"
 date: 2020-06-24
 excerpt: "Comparable 와 Comparator 인터페이스를 이용하여 객체를 정렬하는 법"
+algorithm: true
 tag:
 - algorithm
 - Comparable
