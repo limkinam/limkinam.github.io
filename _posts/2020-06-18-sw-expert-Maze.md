@@ -3,6 +3,7 @@ layout: post
 title: "BFS 미로탐색"
 date: 2020-06-18
 excerpt: "Queue를 사용하여 BFS를 구현해 미로 탐색 문제를 해결"
+algorithm: true
 tag:
 - algorithm
 - bfs
