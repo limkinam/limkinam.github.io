@@ -3,6 +3,7 @@ layout: post
 title: "Back Tracking(DFS)"
 date: 2020-06-18
 excerpt: "DFS를 이용한 백트래킹을 이용해 N-Queen 문제를 해결 "
+algorithm: true
 tag:
 - algorithm
 - dfs
