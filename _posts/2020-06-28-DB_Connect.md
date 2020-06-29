@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "JDBC vs Mybatis vs JPA/Hibernate"
-date: 2020-06-11
+date: 2020-06-28
 excerpt: "JDBC, JPA/Hibernate, Mybatis에 대해서 알아보고 비교해보자"
 tags: [mybatis,jpa,hibernate,jdbc]
 comments: true
