@@ -16,7 +16,7 @@ comments: true
 ## Persitence Framework
  - 데이터의 처리를 다루는 클래스 및 설정 파일의 집합
  - JDBC프로그래밍의 복잡함이나 번거로움 없이 간단한 작업만으로 DB연동 가능
- - SQL문으로 직접 DB데이터를 다루는 'SQL mapper':mybatic 와 자바 객체를 통해 간접적으로 DB데이터를 다루는 ORM(객체 관계 맵퍼)인 하이버네이트
+ - SQL문으로 직접 DB데이터를 다루는 'SQL mapper':mybatis 와 자바 객체를 통해 간접적으로 DB데이터를 다루는 ORM(객체 관계 맵퍼)인 하이버네이트
 
 * SQL Mapper : 객체와 SQL문을 매핑하여 데이터를 객체화하는 기술
 * ORM : 객체와 RDBMS를 매핑하여 DB테이블을 객체지향적으로 사용하기 위한 기술
