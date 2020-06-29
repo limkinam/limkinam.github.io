@@ -22,7 +22,8 @@ layout: compress
                     </a>
                 </div>
                 <div class="post-list">
-                    {% for post in site.posts %} 
+                    {% assign sorted_pages = site.posts | sort:"order" %}
+                    {% for post in sorted_pages %} 
                         {% if post.algorithm == null %}
                             {% if post.project == null %}
                     <ul>
