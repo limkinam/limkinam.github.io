@@ -29,6 +29,7 @@ comments: false
 - 정보처리기사
 - OPIC : IL
 - SW 역량테스트 : Level A  
+- Database :SQLD  
 
 ## PROJECT
 * <a href="https://limkinam.github.io/Bridge/">화상 면접 서비스 + AI 표정 분석 시각화
