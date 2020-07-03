@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Spring Security"
-date: 2020-07-01
+date: 2020-07-03
 excerpt: "Spring Security 이용 로그인 구현하기"
-tags: [vue]
+tags: [JWT,Spring Security]
 comments: true
 ---
 
