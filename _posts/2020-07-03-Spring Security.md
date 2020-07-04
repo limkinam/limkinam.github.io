@@ -24,7 +24,7 @@ comments: true
  - 전송되는 값들이 encrypte & hash 등의 기술이 적용되지 않아 보안에 취약, 보완하기 위해 HTTPS를 사용  
  
  
- ## 3.Form Based Authentication
+## 3.Form Based Authentication
   - web application이 작성한 HTML 페이지에 credentails 정보를 입력해 사용자를 인증하는 방식
   - 과정
     1. 클라이언트가 접근 제한된 API에 요청
