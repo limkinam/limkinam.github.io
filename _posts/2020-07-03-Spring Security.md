@@ -21,7 +21,7 @@ comments: true
     3. browser는 사용자에게 username과 password를 입력받아 다시 요청(header에 입력받은 username과 password를 BASE64로 Encode한 값 포함)
     * BASE64는 'username : password'를 encode
     4. 입력받은 값으로 확인 후 정상적인 API이용
- - 전송되는 값들이 encrypte & hash 등의 기술이 적용되지 않아 보안에 취약(보완하기 위해 HTTPS를 사용)   
+ - 전송되는 값들이 encrypte & hash 등의 기술이 적용되지 않아 보안에 취약, 보완하기 위해 HTTPS를 사용  
  
  
  ## 3.Form Based Authentication
