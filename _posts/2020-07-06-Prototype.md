@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Javascript 프로토타입"
-date: "2020-07-05"
+date: "2020-07-06"
 excerpt: "프로토타입 기반언어 자바스크립트"
-tags: [WebRTC]
+tags: [javascript]
 comments: true
 ---
 
